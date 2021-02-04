@@ -6,7 +6,14 @@ void sub ( )
 {
  C=A-B
 } 	 
-
+void mul ( )
+{
+ C=A*B
+}
+void dic ( )
+{
+ C=A/B
+}	 
 
 void main ( )
 {
